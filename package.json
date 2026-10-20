@@ -1,0 +1,14 @@
+{
+  "name": "webrunner-beta-todo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "minio": "^8.0.5",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.13.1"
+  }
+}
